@@ -1,34 +1,18 @@
-# You already have this line
 remote_theme: BDHU/minimalist
 
-# ---- Basic Info ---- #
-title: Luiz Souza's Portfolio
-description: "MSc student in Computer Science at the University of Minas Gerais (UFMG), Brazil. My research interests include machine learning, computer vision, and robotics."
+title: Luiz F. Souza
 
-# ---- Author Info ---- #
-author:
-  name: Luiz Souza
-  email: "your.email@example.com"
 
-# ---- Theme Specific Settings ---- #
-theme_settings:
-  # The name that appears in the site header
-  title: Luiz F. Souza
-
-  # Your profile picture
-  # 1. Upload an image named 'avatar.png' to your repository
-  # 2. Then, use '/avatar.png' as the path below
-  avatar: /pic.png
-  logo: /assets/img/logo.png
-  email: luizfysouza at gmail dot com
-  description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
-  show_downloads: false
-  google_analytics: G-ZLK2GHB055
-  color-scheme: auto
-  plugins:
-    - jekyll-sitemap
-    - jekyll-seo-tag
-    - jemoji
+logo: pic.png
+email: luizfysouza at gmail dot com
+description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+show_downloads: false
+google_analytics: G-ZLK2GHB055
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
   # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
   sidebar:
