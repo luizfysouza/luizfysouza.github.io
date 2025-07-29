@@ -1,3 +1,33 @@
-theme: jekyll-theme-minimal
-title: Your Name's Portfolio
-description: A short description about you or your work.
+# You already have this line
+remote_theme: BDHU/minimalist
+
+# ---- Basic Info ---- #
+title: Luiz Souza's Portfolio
+description: "Data Analyst and Front-end Developer based in Belo Horizonte."
+
+# ---- Author Info ---- #
+author:
+  name: Luiz Souza
+  email: "your.email@example.com"
+
+# ---- Theme Specific Settings ---- #
+theme_settings:
+  # The name that appears in the site header
+  title: Luiz F. Souza
+
+  # Your profile picture
+  # 1. Upload an image named 'avatar.png' to your repository
+  # 2. Then, use '/avatar.png' as the path below
+  avatar: /avatar.png
+
+  # Social Media Links
+  social:
+    - name: "GitHub"
+      url: "https://github.com/luizfysouza"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/your-profile-url/"
+    - name: "Twitter"
+      url: "https://twitter.com/your-username"
+
+  # The text in the footer of the site
+  footer_text: "© 2025 Luiz Souza"
