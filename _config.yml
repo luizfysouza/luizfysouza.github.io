@@ -3,7 +3,7 @@ remote_theme: BDHU/minimalist
 
 # ---- Basic Info ---- #
 title: Luiz Souza's Portfolio
-description: "Data Analyst and Front-end Developer based in Belo Horizonte."
+description: "MSc student in Computer Science at the University of Minas Gerais (UFMG), Brazil. My research interests include machine learning, computer vision, and robotics."
 
 # ---- Author Info ---- #
 author:
@@ -18,9 +18,9 @@ theme_settings:
   # Your profile picture
   # 1. Upload an image named 'avatar.png' to your repository
   # 2. Then, use '/avatar.png' as the path below
-  avatar: /avatar.png
+  avatar: /pic.png
   logo: /assets/img/logo.png
-  email: bogus at gmail dot com
+  email: luizfysouza at gmail dot com
   description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
   show_downloads: false
   google_analytics: G-ZLK2GHB055
