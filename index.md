@@ -13,4 +13,16 @@ I completed my undergraduate degree in electrical engineering at the Federal Uni
 
 1. [Dense Self-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2407.20395)\
     Maxime Seince, Loic Le Folgoc, **Luiz Augusto Facury de Souza**, Elsa Angelini\
-    *Medical Imaging with Deep Learning (MIDL), 2024*\
+    *Medical Imaging with Deep Learning (MIDL), 2024*
+
+2. [Bridging the Gap in Clinical AI: Zero-Shot Multimodal ECG Analysis with Textual Explanations](https://icml.cc/virtual/2025/46745)\
+     **Luiz Facury de Souza**, Jose Fernandes, Pedro Dutenhefner, Turi Rezende, Gisele Pappa, Gabriela Paixão, Antonio Ribeiro Wagner Jr.\
+    *LXAI @ ICML 2025*
+
+1. [Dense Self-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2407.20395)\
+    Maxime Seince, Loic Le Folgoc, **Luiz Augusto Facury de Souza**, Elsa Angelini\
+    *Medical Imaging with Deep Learning (MIDL), 2024*
+
+1. [Dense Self-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2407.20395)\
+    Maxime Seince, Loic Le Folgoc, **Luiz Augusto Facury de Souza**, Elsa Angelini\
+    *Medical Imaging with Deep Learning (MIDL), 2024*
