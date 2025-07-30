@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I'm a first-year MSc student at the Federal University of Minas Gerais. My interests and current research involve self-supervised learning, world models, reinforcement learning, image matching, and energy-based models.
+I'm a first-year MSc student at the Federal University of Minas Gerais, Brazil. My interests and current research involve self-supervised learning, world models, reinforcement learning, image matching, and energy-based models.
 
 I completed my undergraduate degree in electrical engineering at the Federal University of Minas Gerais. Through a two-year double degree program, I also earned a French engineering degree (Diplôme d'Ingénieur) from Télécom Paris (Institut Polytechnique de Paris). I have conducted research in many laboratories and recently completed a six-month internship at Philips in Paris, where I worked on self-supervised learning for EEG signal processing.
 
